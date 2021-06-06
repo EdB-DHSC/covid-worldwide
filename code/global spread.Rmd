@@ -1,0 +1,22 @@
+---
+title: "COVID-19 - the global spread"
+author: "Edward Beake"
+date: 
+output: word_document
+---
+
+This report offers an overview of the global spread of COVID-19, using the lastest country level data from Johns Hopkin Centre for System Science and Engenering.
+
+## Confirmed Cases
+
+```{r, echo=FALSE,fig.width=8,fig.height=6}
+con
+```
+
+## Deaths
+
+```{r, echo=FALSE,fig.width=8,fig.height=6}
+deaths
+```
+
+
